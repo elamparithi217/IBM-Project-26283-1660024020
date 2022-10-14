@@ -1,8 +1,8 @@
 # IBM-Project-26283-1660024020
 News Tracker Application
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-career-counselling%2F8-reasons-mtech-students-should-choose-career-counseling&psig=AOvVaw2wPXMVdb89nd0R3N_pBTIu&ust=1665814008853000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjrpvSG3_oCFQAAAAAdAAAAABAJ">
 
-# IBM-Project-52374-1660999079
+
 
 |      **Project Name**     | News Tracker Application |
 |:---------------------:|:------------------------------:|
