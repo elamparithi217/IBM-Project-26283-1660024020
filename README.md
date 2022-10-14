@@ -1,6 +1,6 @@
 # IBM-Project-26283-1660024020
 News Tracker Application
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-career-counselling%2F8-reasons-mtech-students-should-choose-career-counseling&psig=AOvVaw2wPXMVdb89nd0R3N_pBTIu&ust=1665814008853000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjrpvSG3_oCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 
